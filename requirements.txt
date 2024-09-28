@@ -1,0 +1,13 @@
+dnspython==2.6.1
+fastapi
+h11
+idna
+pydantic
+pymongo==4.9.1
+python-dotenv
+setuptools==75.1.0
+sniffio
+starlette
+typing_extensions
+uvicorn
+wheel==0.44.0
